@@ -1,0 +1,106 @@
+INFO : Running mode "Training"
+INFO : Running year "1 an Clair CKDEPI en ml/min/1.73m2"
+INFO : Running condition "Histological & clinical values"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 146 rows and 38 columns to process
+INFO : Condition "Histological & clinical values" completed
+INFO : Running condition "Histological values & DFG at 3 months"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 146 rows and 38 columns to process
+INFO : Condition "Histological values & DFG at 3 months" completed
+INFO : Running condition "Histological values & Age"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 146 rows and 38 columns to process
+INFO : Condition "Histological values & Age" completed
+INFO : Running condition "No clinical values & No DFG"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 146 rows and 38 columns to process
+INFO : Condition "No clinical values & No DFG" completed
+INFO : Running condition "Clinical values only"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 146 rows and 38 columns to process
+INFO : Condition "Clinical values only" completed
+INFO : Running year "3 an Clair CKDEPI en ml/min/1.73m2"
+INFO : Running condition "Histological & clinical values"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 146 rows and 38 columns to process
+INFO : Condition "Histological & clinical values" completed
+INFO : Running condition "Histological values & DFG at 3 months"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 146 rows and 38 columns to process
+INFO : Condition "Histological values & DFG at 3 months" completed
+INFO : Running condition "Histological values & Age"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 146 rows and 38 columns to process
+INFO : Condition "Histological values & Age" completed
+INFO : Running condition "No clinical values & No DFG"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 146 rows and 38 columns to process
+INFO : Condition "No clinical values & No DFG" completed
+INFO : Running condition "Clinical values only"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 146 rows and 38 columns to process
+INFO : Condition "Clinical values only" completed
+INFO : Running year "5 an Clair CKDEPI en ml/min/1.73m2"
+INFO : Running condition "Histological & clinical values"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 128 rows and 38 columns to process
+INFO : Condition "Histological & clinical values" completed
+INFO : Running condition "Histological values & DFG at 3 months"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 128 rows and 38 columns to process
+INFO : Condition "Histological values & DFG at 3 months" completed
+INFO : Running condition "Histological values & Age"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 128 rows and 38 columns to process
+INFO : Condition "Histological values & Age" completed
+INFO : Running condition "No clinical values & No DFG"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 128 rows and 38 columns to process
+INFO : Condition "No clinical values & No DFG" completed
+INFO : Running condition "Clinical values only"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 128 rows and 38 columns to process
+INFO : Condition "Clinical values only" completed
+INFO : Running year "7 an Clair CKDEPI en ml/min/1.73m2"
+INFO : Running condition "Histological & clinical values"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 83 rows and 38 columns to process
+INFO : Condition "Histological & clinical values" completed
+INFO : Running condition "Histological values & DFG at 3 months"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 83 rows and 38 columns to process
+INFO : Condition "Histological values & DFG at 3 months" completed
+INFO : Running condition "Histological values & Age"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 83 rows and 38 columns to process
+INFO : Condition "Histological values & Age" completed
+INFO : Running condition "No clinical values & No DFG"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 83 rows and 38 columns to process
+INFO : Condition "No clinical values & No DFG" completed
+INFO : Running condition "Clinical values only"
+INFO: Training data found at C:\pbard\Scientifique\Projets\transplantML\Programs\..\Data\Training
+INFO : 146 rows and 38 columns loaded
+INFO : 83 rows and 38 columns to process
+INFO : Condition "Clinical values only" completed
+INFO : Run completed
