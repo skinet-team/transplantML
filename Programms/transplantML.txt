@@ -1,0 +1,7 @@
+customtkinter
+pandas
+pillow
+scikit-learn
+tabulate
+matplotlib
+openpyxl
